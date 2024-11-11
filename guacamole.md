@@ -5,4 +5,4 @@
 * salt(2)
 ## Instructions
 * put one avocado into a bowl.
-so what really happended
+so what really happened
